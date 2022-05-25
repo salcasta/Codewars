@@ -6,7 +6,7 @@ function boolToWord(bool) {
       return "Yes"
     }
     else{
-        return "No"
+      return "No"
     }
-  }
+}
   
