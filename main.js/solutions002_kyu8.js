@@ -14,4 +14,3 @@ Examples:
 function opposite(number) {
     return(-number);
 }
-
